@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="Color" format="color"/>
+    <attr name="inVelocityX" format="integer"/>
+    <attr name="inVelocityY" format="integer"/>
+    <attr name="Text" format="string"/>
+    <attr name="TextColor" format="color"/>
+    <attr name="TextSize" format="integer"/>
+
+
+    <declare-styleable name="BallView">
+        <attr name="color"/>
+        <attr name="inVelocityX" />
+        <attr name="inVelocityY" />
+        <attr name="Text" />
+        <attr name="TextColor"/>
+        <attr name="TextSize"/>
+    </declare-styleable>
+</resources>
